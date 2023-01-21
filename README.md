@@ -1,9 +1,10 @@
 # Convolutional Neural Networks for Image Classification
 ## MNIST and CIFAR-10
 
-<!-- <br>
+<br>
 
-## Overview -->
+## Overview
+This project aims to train a CNN model to classify images using the MNIST and CIFAR-10 datasets. The MNIST dataset contains handwritten digits and CIFAR-10 contains images of 10 different classes such as airplanes, cars, and birds. The model will use convolutional layers, which are particularly effective in image classification tasks, to extract features from the images and it will be trained using techniques such as backpropagation and gradient descent to adjust the weights and biases of the network. The goal of the project is to achieve high accuracy on the image classification task using the MNIST and CIFAR-10 datasets with a CNN model.
 
 <br>
 
